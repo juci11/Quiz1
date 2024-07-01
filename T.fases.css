@@ -1,0 +1,41 @@
+body {
+
+
+
+    overflow: hidden; /* Impede a rolagem do corpo */
+
+
+
+    background-image: url('g.png'); /* Substitua pelo caminho da sua imagem */
+
+    background-size: cover;
+
+    background-position: center;
+
+    width: 100%;
+
+    height: 100vh; /* 100% da altura da viewport */
+
+    margin: 0; /* Remove margens padrão */
+
+    padding: 0; /* Remove preenchimento padrão */
+
+}
+
+
+
+.background {
+
+    /* Estilos adicionais para elementos com a classe .background */
+
+    /* Por exemplo: */
+
+    color: white; /* Texto branco */
+
+    padding: 20px; /* Preenchimento interno de 20px */
+
+    font-size: 24px; /* Tamanho da fonte de 24px */
+
+    text-align: center; /* Alinhamento centralizado */
+
+}
